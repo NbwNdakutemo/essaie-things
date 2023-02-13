@@ -1,2 +1,2 @@
 #Don't readme 
-Don't readme, i'm useless
+readme, i'm useful
